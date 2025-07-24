@@ -1,0 +1,31 @@
+.myloginform {
+	display: flex;
+	height: 500px;
+	justify-content: center;
+	align-items: center;
+}
+.lbl {
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#email {
+	font-size: 18pt;
+	height: 30px;
+	width: 500px;
+}
+#password {
+	font-size: 18pt;
+	height: 30px;
+	width: 500px;
+}
+.submit {
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#submit {
+	font-size: 20px;
+}
